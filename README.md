@@ -1,12 +1,17 @@
-# Frontend <img src="https://www.moovin.com.br/assets/images/svg/logo2.svg" width="50">
+# Frontend ![moovinimg](https://user-images.githubusercontent.com/21336683/141699297-a394ca32-475f-4677-8a62-32732e443881.png)
 
 ### Desafio
 
 Desenvolver um painel integrado com uma API, seguindo o modelo de layout proposto.
 
-### Como realizar
+### Desafio foi realizado utilizando as seguintes tecnologias:
 
-Faça o fork do repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br. Este repositório já possui uma base para iniciar o desenvolvimento, utilize-a como achar necessário. 
+* React;
+* Material UI;
+* Typescript;
+* Bootstrap;
+
+
 
 Para iniciar você deve instalar as dependências:
 ```zsh
