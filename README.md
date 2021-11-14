@@ -2,7 +2,7 @@
 
 ### Desafio
 
-Desenvolver um painel integrado com uma API, seguindo o modelo de layout proposto.
+Desenvolver um painel integrado utilizando a API GO REST [LINK DA API](https://gorest.co.in/), seguindo o modelo de layout proposto.
 
 ### Desafio foi realizado utilizando as seguintes tecnologias:
 
