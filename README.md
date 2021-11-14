@@ -23,7 +23,6 @@ Para iniciar um webserver local:
 ```
 
 <img src="https://user-images.githubusercontent.com/21336683/141699413-a5279999-0498-4b2a-972b-1176cd984340.gif" alt="Painel Moovin" hspace="20"/>
-<img src="https://user-images.githubusercontent.com/21336683/114648030-796a7b80-9cb4-11eb-9cf5-e0ebadb5ad45.gif" width="800" height="350" />
 <br/>
 <hr/>
 
