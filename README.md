@@ -22,6 +22,8 @@ Em seguida você deve iniciar um webserver local:
   foo@bar:~$ npm start
 ```
 
+<img align="left" src="https://user-images.githubusercontent.com/21336683/141699413-a5279999-0498-4b2a-972b-1176cd984340.gif" alt="Painel Moovin" title="Pesquisa" hspace="20"/>
+
 ### Layout
 
 https://xd.adobe.com/spec/21e60bfc-8b67-4f93-7e70-0434b8eafbd6-57d7/
