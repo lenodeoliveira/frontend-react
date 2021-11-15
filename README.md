@@ -1,8 +1,8 @@
-# Frontend ![moovinimg](https://user-images.githubusercontent.com/21336683/141699297-a394ca32-475f-4677-8a62-32732e443881.png) :rocket:
+# Frontend ![moovinimg](https://user-images.githubusercontent.com/21336683/141699297-a394ca32-475f-4677-8a62-32732e443881.png) :rocket: :four_leaf_clover:
 
 ### Desafio
 
-Desenvolver um painel integrado utilizando a API [GO REST](https://gorest.co.in/), seguindo o modelo de layout proposto.
+Desenvolver um painel integrado utilizando a API [GO REST](https://gorest.co.in/), seguindo o modelo de layout proposto. :white_check_mark:
 
 ### Desafio foi realizado utilizando as seguintes tecnologias:
 
