@@ -22,7 +22,7 @@ Para iniciar um webserver local:
   foo@bar:~$ npm start
 ```
 
-<img src="https://user-images.githubusercontent.com/21336683/141699413-a5279999-0498-4b2a-972b-1176cd984340.gif" alt="Painel Moovin" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/21336683/141710312-4aba1b41-84f5-454e-9178-7c557b1b0fcf.gif" alt="Painel Moovin" hspace="20"/>
 <br/>
 <hr/>
 
