@@ -19,7 +19,12 @@ const App: React.FC = () => {
 	const [loading, setLoading]: [boolean, (loading: boolean) => void] = React.useState<boolean>(true);
 	const [error, setError]: [string, (error: string) => void] = React.useState("");
 	const [page, setPage]: [number, (value: number) => void] = React.useState(1);
-
+	
+	React.useEffect(() => {
+	   window.scrollTo(0,0)
+		
+	}, [page])
+	
 	React.useEffect(() => {
 		axios
 			.get(`https://gorest.co.in/public/v1/posts?page=${page}`)
