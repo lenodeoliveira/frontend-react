@@ -27,7 +27,7 @@ const App: React.FC = () => {
 	
 	React.useEffect(() => {
 		axios
-			.get(`https://gorest.co.in/public/v1/posts?page=${page}`)
+			.get(`https://gorest.co.in/public-api/posts?_format=json&access-token=${process.env.REACT_APP_TOKEN}&page=${page}`)
 			.then(response => {
 				const { data: { data } } = response
 				setPosts(data);
